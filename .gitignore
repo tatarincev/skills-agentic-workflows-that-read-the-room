@@ -45,3 +45,6 @@ site/.vercel/
 site/.netlify/
 site/.env
 site/.env.*
+/.vs
+/.gitignore
+/.gitignore
